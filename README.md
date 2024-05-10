@@ -20,6 +20,7 @@ The fields include request timestamp, tenant identifier, product identifier, and
 |  Tenant Identifier |   String  |                  The requested tenant identifier                  |
 | Product Identifier |   String  |                  The requested product identifier                 |
 |    Response Size   |  Integer  |             The size of the returned response in bytes            |
+
 Table 1. Data dictionary 
 
 ## This data will soon be available in this repository in May 2024
